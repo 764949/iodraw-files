@@ -194,6 +194,64 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-16" value="市场机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="665" y="899" width="505" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-17" value="政府层面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="760" width="521" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-18" value="财政压力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="375" y="795" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-19" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="795" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-20" value="有效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="941" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-21" value="价格机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="706" y="1040" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-22" value="公平竞争" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="1040" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-23" value="调节市场有效性" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-18" target="56fVFI-HIv3MiE1KW3EJ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-24" value="释放政策信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-19" target="56fVFI-HIv3MiE1KW3EJ-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="871" y="810" />
+              <mxPoint x="946" y="944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-25" value="反馈创新实践" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=1;entryY=0.81;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-20" target="56fVFI-HIv3MiE1KW3EJ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="946" y="993" />
+              <mxPoint x="871" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-26" value="市场行为反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.75;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-22" target="56fVFI-HIv3MiE1KW3EJ-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="946" y="1085" />
+              <mxPoint x="871" y="1085" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-27" value="调节资源配置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.23;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-21" target="56fVFI-HIv3MiE1KW3EJ-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="871" y="1036" />
+              <mxPoint x="946" y="1036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
