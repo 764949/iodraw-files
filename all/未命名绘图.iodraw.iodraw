@@ -215,9 +215,14 @@
         <mxCell id="56fVFI-HIv3MiE1KW3EJ-22" value="公平竞争" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1021" y="1040" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="56fVFI-HIv3MiE1KW3EJ-23" value="调节市场有效性" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontColor=#F8CECC;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-18" target="56fVFI-HIv3MiE1KW3EJ-19">
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-23" value="调节市场有效性" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontColor=none;noLabel=1;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-18" target="56fVFI-HIv3MiE1KW3EJ-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="56fVFI-HIv3MiE1KW3EJ-23">
+          <mxGeometry x="-0.267" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="56fVFI-HIv3MiE1KW3EJ-24" value="释放政策信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-19" target="56fVFI-HIv3MiE1KW3EJ-20">
