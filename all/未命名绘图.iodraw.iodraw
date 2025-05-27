@@ -210,6 +210,14 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-72" value="抑制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="200" y="830" width="46" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-73" value="抑制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="490" y="830" width="46" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
