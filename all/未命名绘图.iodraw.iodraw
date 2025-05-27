@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-28" value="财政压力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="449" width="124" height="49" as="geometry" />
+          <mxGeometry x="42" y="421" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-29" target="6SDYQxrZhFVvtcaWBi7A-30">
           <mxGeometry relative="1" as="geometry">
@@ -188,7 +188,7 @@
           <mxGeometry x="219" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-63" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;弥补市场缺陷&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="100" y="500" width="50" height="50" as="geometry" />
+          <mxGeometry x="94" y="490" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
