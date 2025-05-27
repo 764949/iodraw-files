@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-30" value="长期投入&#xa;风险共担&#xa;创新生态协同&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="309" y="545" width="94" height="55" as="geometry" />
+          <mxGeometry x="307" y="549" width="94" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-31" value="低效市场" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="26" y="765" width="156" height="49" as="geometry" />
@@ -187,7 +187,7 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-67" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;短视行为&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="80" y="489" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-31">
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-31" target="6SDYQxrZhFVvtcaWBi7A-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="910" as="sourcePoint" />
             <mxPoint x="270" y="860" as="targetPoint" />
