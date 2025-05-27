@@ -145,11 +145,6 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-30" target="6SDYQxrZhFVvtcaWBi7A-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-44" value="消除障碍&lt;div&gt;推动市场功能&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6SDYQxrZhFVvtcaWBi7A-43">
-          <mxGeometry x="-0.3158" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-30" value="信号传递&#xa;资金引导&#xa;创业激励" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="309" y="545" width="94" height="79" as="geometry" />
         </mxCell>
