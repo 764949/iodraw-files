@@ -40,9 +40,6 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-12" value="（H1）" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1031" y="432" width="74" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-13" value="H2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="43" y="226" width="79" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-1" target="6SDYQxrZhFVvtcaWBi7A-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
