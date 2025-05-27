@@ -207,6 +207,9 @@
             <mxPoint x="270" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-72" value="转型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="220" y="775" width="46" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
