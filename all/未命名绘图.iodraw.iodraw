@@ -181,7 +181,7 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-58" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;财政杠杆、资源系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="313" y="666" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-59" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;弥补市场缺陷&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-59" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;长期投入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="336" y="655" width="60" height="82" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-61" value="&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(38, 42, 43); --darkreader-inline-bgcolor: var(--darkreader-background-262a2b, #2f3335);&quot;&gt;耐心资本特性&lt;/span&gt;&lt;div&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(47, 51, 53); --darkreader-inline-bgcolor: var(--darkreader-background-2f3335, #34393b);&quot;&gt;引导社会资本&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -191,7 +191,7 @@
           <mxGeometry x="89" y="490" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-64" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;短视行为&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="99" y="500" width="50" height="50" as="geometry" />
+          <mxGeometry x="63" y="490" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
