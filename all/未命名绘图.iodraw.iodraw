@@ -178,7 +178,10 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-53" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;激发诉求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="197" y="693" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-58" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;财政杠杆、资源系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-58" target="6SDYQxrZhFVvtcaWBi7A-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-58" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;风险共担、创新生态协同&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="313" y="666" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-59" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;长期投入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
