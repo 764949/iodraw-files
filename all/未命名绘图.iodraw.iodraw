@@ -169,9 +169,6 @@
             <mxPoint x="110" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-51" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(24, 26, 27); --darkreader-inline-bgcolor: var(--darkreader-background-181a1b, #262a2b);&quot; data-darkreader-inline-bgcolor=&quot;&quot;&gt;市场化运营&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(24, 26, 27); --darkreader-inline-bgcolor: var(--darkreader-background-181a1b, #262a2b);&quot; data-darkreader-inline-bgcolor=&quot;&quot;&gt;政策网络&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="218" y="551" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-58" value="功能性产业政策保障" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="316" y="636" width="60" height="118" as="geometry" />
         </mxCell>
