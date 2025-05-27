@@ -132,7 +132,10 @@
           <mxGeometry x="42" y="440" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-29" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="26" y="550" width="156" height="49" as="geometry" />
+          <mxGeometry x="26" y="560" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-30" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="570" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
