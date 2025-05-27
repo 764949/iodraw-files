@@ -163,6 +163,12 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-31" value="低效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="26" y="681" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-32" target="6SDYQxrZhFVvtcaWBi7A-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-32" target="6SDYQxrZhFVvtcaWBi7A-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-32" value="有效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="278" y="681" width="156" height="49" as="geometry" />
         </mxCell>
