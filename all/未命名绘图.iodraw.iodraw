@@ -151,6 +151,17 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-30" value="功能性产业政策&#xa;多维资源支持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="309" y="545" width="94" height="79" as="geometry" />
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-31" target="6SDYQxrZhFVvtcaWBi7A-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="104" y="745" />
+              <mxPoint x="202" y="745" />
+              <mxPoint x="202" y="800" />
+              <mxPoint x="214" y="800" />
+              <mxPoint x="214" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-31" value="低效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="26" y="765" width="156" height="49" as="geometry" />
         </mxCell>
