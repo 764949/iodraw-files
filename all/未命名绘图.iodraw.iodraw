@@ -167,7 +167,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-32" target="6SDYQxrZhFVvtcaWBi7A-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="610" />
+              <mxPoint x="210" y="610" />
+              <mxPoint x="210" y="609" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-32" value="有效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="278" y="681" width="156" height="49" as="geometry" />
