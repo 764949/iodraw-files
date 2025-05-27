@@ -128,6 +128,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-28" value="财政压力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="137" width="124" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
