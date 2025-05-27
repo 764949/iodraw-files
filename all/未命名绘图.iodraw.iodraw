@@ -178,6 +178,11 @@
             <mxPoint x="250" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-48" value="提供思路&lt;div&gt;激发诉求&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6SDYQxrZhFVvtcaWBi7A-47">
+          <mxGeometry x="0.147" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
