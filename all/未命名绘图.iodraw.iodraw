@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-26" value="挤出创新投入" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-11" target="6SDYQxrZhFVvtcaWBi7A-1">
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-26" value="挤出创新投入" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.427;entryY=0.048;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-11" target="6SDYQxrZhFVvtcaWBi7A-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
