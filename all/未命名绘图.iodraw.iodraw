@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-30" value="长期投入&#xa;风险共担&#xa;创新生态协同&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="309" y="545" width="94" height="79" as="geometry" />
+          <mxGeometry x="309" y="545" width="94" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-31" value="低效市场" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="26" y="765" width="156" height="49" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="129" y="706" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-83" value="&lt;span style=&quot;&quot;&gt;多维资源支持&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="140" y="890" width="30" height="80" as="geometry" />
+          <mxGeometry x="351" y="650" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
