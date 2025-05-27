@@ -155,7 +155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-32" value="有效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="278" y="681" width="156" height="49" as="geometry" />
+          <mxGeometry x="278" y="695" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-33" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="278" y="790" width="156" height="49" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="290" y="630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-59" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;推动市场功能&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="374" y="642" width="60" height="30" as="geometry" />
+          <mxGeometry x="403" y="578" width="60" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
