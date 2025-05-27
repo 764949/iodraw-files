@@ -179,13 +179,13 @@
           <mxGeometry x="219" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-64" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;重投资、&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;轻创新&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="80" y="625" width="20" height="105" as="geometry" />
+          <mxGeometry x="84" y="625" width="20" height="105" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-66" value="市场机制纠偏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=308;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="91" y="634" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-67" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;短视行为&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="85" y="490" width="20" height="60" as="geometry" />
+          <mxGeometry x="84" y="490" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-31" target="6SDYQxrZhFVvtcaWBi7A-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-83" value="&lt;span style=&quot;&quot;&gt;多维资源支持&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="351" y="650" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-84" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268" y="466" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
