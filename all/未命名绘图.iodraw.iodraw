@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-28" value="财政压力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="456" width="124" height="49" as="geometry" />
+          <mxGeometry x="42" y="440" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-29" target="6SDYQxrZhFVvtcaWBi7A-30">
           <mxGeometry relative="1" as="geometry">
@@ -163,10 +163,10 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-33" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="278" y="860" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-32" target="6SDYQxrZhFVvtcaWBi7A-29">
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="700" as="sourcePoint" />
-            <mxPoint x="250" y="630" as="targetPoint" />
+            <mxPoint x="120" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-51" value="&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(24, 26, 27); --darkreader-inline-bgcolor: var(--darkreader-background-181a1b, #262a2b);&quot;&gt;市场化运营&lt;/span&gt;&lt;div&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(24, 26, 27); --darkreader-inline-bgcolor: var(--darkreader-background-181a1b, #262a2b);&quot;&gt;政策网络&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -188,7 +188,7 @@
           <mxGeometry x="166" y="677" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-67" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;短视行为&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="78" y="500" width="20" height="60" as="geometry" />
+          <mxGeometry x="80" y="489" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
