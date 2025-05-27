@@ -244,7 +244,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="56fVFI-HIv3MiE1KW3EJ-27" value="调节资源配置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.23;rounded=0;fontColor=#fffafa;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-21" target="56fVFI-HIv3MiE1KW3EJ-22">
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-27" value="调节资源配置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0;entryY=0.23;rounded=0;fontColor=#aa0808;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-21" target="56fVFI-HIv3MiE1KW3EJ-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="871" y="1036" />
