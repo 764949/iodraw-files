@@ -187,8 +187,8 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-64" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;重投资&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="63" y="505" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-66" value="市场机制纠偏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="144" y="650" width="96" height="30" as="geometry" />
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-66" value="市场机制纠偏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="166" y="677" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
