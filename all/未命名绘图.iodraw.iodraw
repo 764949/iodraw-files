@@ -220,7 +220,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="56fVFI-HIv3MiE1KW3EJ-24" value="释放政策信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-19" target="56fVFI-HIv3MiE1KW3EJ-20">
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-24" value="释放政策信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.3;rounded=0;fontColor=#ba0303;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-19" target="56fVFI-HIv3MiE1KW3EJ-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="871" y="810" />
@@ -228,7 +228,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="56fVFI-HIv3MiE1KW3EJ-25" value="反馈创新实践" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=1;entryY=0.81;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-20" target="56fVFI-HIv3MiE1KW3EJ-19">
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-25" value="反馈创新实践" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=1;entryY=0.81;rounded=0;fontColor=#ba0303;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-20" target="56fVFI-HIv3MiE1KW3EJ-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="946" y="993" />
