@@ -223,6 +223,9 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-79" value="政策动态响应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=306;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="109" y="647" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-80" value="价格信号、效率倒逼" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="42" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
