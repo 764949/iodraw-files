@@ -187,7 +187,7 @@
             <mxPoint x="270" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-72" value="抑制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-72" value="抑制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=25;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="200" y="830" width="46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-73" value="提高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
