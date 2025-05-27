@@ -131,8 +131,10 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-28" value="财政压力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="42" y="440" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-29" target="6SDYQxrZhFVvtcaWBi7A-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6SDYQxrZhFVvtcaWBi7A-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="585" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-29" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="26" y="560" width="156" height="49" as="geometry" />
@@ -148,9 +150,6 @@
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-33" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="278" y="790" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-39" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="560" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
