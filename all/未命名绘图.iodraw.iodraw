@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="0RNdFEnmR1aM9KXYzdE8">
-    <mxGraphModel dx="748" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="359" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
           <mxGeometry x="80" y="625" width="20" height="105" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-66" value="市场机制纠偏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-55;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="114" y="655" width="96" height="30" as="geometry" />
+          <mxGeometry x="104" y="647" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-67" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;短视行为&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="80" y="489" width="20" height="60" as="geometry" />
