@@ -226,8 +226,8 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-83" value="&lt;span style=&quot;&quot;&gt;多维资源支持&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="351" y="650" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-89" value="市场化运营&lt;div&gt;政策网络&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="238" y="555" width="60" height="30" as="geometry" />
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-89" value="市场化运营&lt;div&gt;政策网络&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="222" y="555" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
