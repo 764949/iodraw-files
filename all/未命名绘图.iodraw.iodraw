@@ -215,7 +215,7 @@
         <mxCell id="56fVFI-HIv3MiE1KW3EJ-22" value="公平竞争" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1021" y="1040" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="56fVFI-HIv3MiE1KW3EJ-23" value="调节市场有效性" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-18" target="56fVFI-HIv3MiE1KW3EJ-19">
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-23" value="调节市场有效性" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontColor=#F8CECC;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-18" target="56fVFI-HIv3MiE1KW3EJ-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -236,7 +236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="56fVFI-HIv3MiE1KW3EJ-26" value="市场行为反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.75;rounded=0;fontColor=#2c0202;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-22" target="56fVFI-HIv3MiE1KW3EJ-21">
+        <mxCell id="56fVFI-HIv3MiE1KW3EJ-26" value="市场行为反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.75;rounded=0;fontColor=#d60505;" edge="1" parent="1" source="56fVFI-HIv3MiE1KW3EJ-22" target="56fVFI-HIv3MiE1KW3EJ-21">
           <mxGeometry x="-0.0038" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="946" y="1085" />
