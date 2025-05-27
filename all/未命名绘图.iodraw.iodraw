@@ -220,6 +220,9 @@
             <mxPoint x="200" y="756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-79" value="抑制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="100" y="860" width="46" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
