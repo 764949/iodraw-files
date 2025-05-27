@@ -213,8 +213,8 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-73" value="提高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="343" y="820" width="46" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-75" value="价格信号、效率倒闭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="260" y="960" width="96" height="30" as="geometry" />
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-75" value="价格信号、效率倒闭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="210" y="677" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
