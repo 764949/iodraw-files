@@ -220,8 +220,8 @@
             <mxPoint x="200" y="756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-79" value="政策动态响应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-47;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="135" y="726" width="90" height="30" as="geometry" />
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-79" value="政策动态响应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="120" y="655" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
