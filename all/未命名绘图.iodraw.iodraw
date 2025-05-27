@@ -140,6 +140,9 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-31" value="低效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="26" y="730" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-32" value="有效市场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="730" width="156" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
