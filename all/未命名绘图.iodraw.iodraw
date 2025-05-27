@@ -226,8 +226,8 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-81" value="资源配置优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=21;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="129" y="706" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6SDYQxrZhFVvtcaWBi7A-83" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="91" y="890" width="60" height="30" as="geometry" />
+        <mxCell id="6SDYQxrZhFVvtcaWBi7A-83" value="&lt;span style=&quot;&quot;&gt;多维资源支持&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="91" y="890" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
