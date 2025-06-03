@@ -299,7 +299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-20" value="直接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1350" width="79" height="30" as="geometry" />
+          <mxGeometry x="472" y="1350" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-21" value="间接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="474" y="1404.31" width="79" height="30" as="geometry" />
