@@ -247,7 +247,7 @@
         <mxCell id="6SDYQxrZhFVvtcaWBi7A-94" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;财政约束&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="103" y="490" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GX9jfsRnXOf5WtmoGG0t-1" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="GX9jfsRnXOf5WtmoGG0t-1" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="144" y="1389" width="33" height="95" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-2" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;textDirection=vertical-rl;" vertex="1" parent="1">
