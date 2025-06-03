@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-23" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=90;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="390.38" y="1362.78" width="148.84" height="130.61" as="geometry" />
+          <mxGeometry x="387" y="1359.39" width="148.84" height="137.38" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-6" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=90;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="179.57" y="1367.2" width="148.84" height="137.38" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry x="144" y="1389" width="33" height="95" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-2" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1351.58" width="37" height="153" as="geometry" />
+          <mxGeometry x="521" y="1351.58" width="37" height="153" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-3" value="创新激励" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="1360" width="89" height="30" as="geometry" />
@@ -292,32 +292,32 @@
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-14" value="资金引导" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=18;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="214" y="1436.31" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GX9jfsRnXOf5WtmoGG0t-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GX9jfsRnXOf5WtmoGG0t-3" target="GX9jfsRnXOf5WtmoGG0t-2">
+        <mxCell id="GX9jfsRnXOf5WtmoGG0t-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="GX9jfsRnXOf5WtmoGG0t-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1480" as="sourcePoint" />
-            <mxPoint x="440" y="1430" as="targetPoint" />
+            <mxPoint x="422.5" y="1375" as="sourcePoint" />
+            <mxPoint x="441" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420.5" y="1428.58" as="sourcePoint" />
-            <mxPoint x="517.5" y="1427.58" as="targetPoint" />
+            <mxPoint x="421.5" y="1428.58" as="sourcePoint" />
+            <mxPoint x="518.5" y="1427.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="423" y="1485.5" as="sourcePoint" />
-            <mxPoint x="520" y="1484.5" as="targetPoint" />
+            <mxPoint x="424" y="1485.5" as="sourcePoint" />
+            <mxPoint x="521" y="1484.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-20" value="直接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="429" y="1350" width="79" height="30" as="geometry" />
+          <mxGeometry x="430" y="1350" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-21" value="间接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="429" y="1404.31" width="79" height="30" as="geometry" />
+          <mxGeometry x="430" y="1404.31" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-22" value="间接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="429" y="1460" width="79" height="30" as="geometry" />
+          <mxGeometry x="430" y="1460" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
