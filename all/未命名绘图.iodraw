@@ -242,10 +242,10 @@
           <mxGeometry x="103" y="490" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-1" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="139" y="1377" width="33" height="95" as="geometry" />
+          <mxGeometry x="166" y="1360" width="33" height="95" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-2" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="567" y="1348" width="37" height="153" as="geometry" />
+          <mxGeometry x="559.5" y="1360" width="37" height="153" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
