@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="0RNdFEnmR1aM9KXYzdE8">
-    <mxGraphModel dx="528" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="528" dy="383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-1" value="政府投资基金" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;textDirection=vertical-lr;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="144" y="1389" width="33" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="GX9jfsRnXOf5WtmoGG0t-2" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="GX9jfsRnXOf5WtmoGG0t-2" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;textDirection=vertical-rl;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="565" y="1351.58" width="37" height="153" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-3" value="创新激励" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
@@ -262,7 +262,7 @@
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-5" value="融资支持" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="331.5" y="1470" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GX9jfsRnXOf5WtmoGG0t-7" value="市场影响" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="GX9jfsRnXOf5WtmoGG0t-7" value="市场影响" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="224" y="1330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GX9jfsRnXOf5WtmoGG0t-3">
@@ -328,7 +328,7 @@
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-28" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;满足技术攻关企业资金需求&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;fontStyle=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="429" y="1461" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GX9jfsRnXOf5WtmoGG0t-29" value="市场主体行为" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="GX9jfsRnXOf5WtmoGG0t-29" value="市场主体行为" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="453" y="1305" width="82.42" height="30" as="geometry" />
         </mxCell>
       </root>
