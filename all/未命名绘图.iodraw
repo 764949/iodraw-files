@@ -280,8 +280,8 @@
             <mxPoint x="276" y="1579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GX9jfsRnXOf5WtmoGG0t-11" value="创新创业引导" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="211" y="1380" width="60" height="30" as="geometry" />
+        <mxCell id="GX9jfsRnXOf5WtmoGG0t-11" value="创新创业引导" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-20;" vertex="1" parent="1">
+          <mxGeometry x="211" y="1380" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
