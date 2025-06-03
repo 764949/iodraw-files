@@ -254,7 +254,7 @@
           <mxGeometry x="332.5" y="1360" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-4" value="创新激励效应" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="331.5" y="1415.5" width="89" height="30" as="geometry" />
+          <mxGeometry x="331.5" y="1414.5" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-5" value="创新激励效应" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="331.5" y="1500" width="89" height="30" as="geometry" />
@@ -264,8 +264,8 @@
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GX9jfsRnXOf5WtmoGG0t-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="177" y="1430" as="sourcePoint" />
-            <mxPoint x="227" y="1380" as="targetPoint" />
+            <mxPoint x="332.5" y="1430" as="sourcePoint" />
+            <mxPoint x="282.5" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.985;exitY=0.437;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GX9jfsRnXOf5WtmoGG0t-1">
