@@ -251,7 +251,7 @@
           <mxGeometry x="144" y="1389" width="33" height="95" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-2" value="关键核心技术攻关能力" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="579" y="1351.58" width="37" height="153" as="geometry" />
+          <mxGeometry x="518" y="1351.58" width="37" height="153" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-3" value="创新激励" style="whiteSpace=wrap;strokeWidth=2;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="1360" width="89" height="30" as="geometry" />
@@ -294,30 +294,30 @@
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="GX9jfsRnXOf5WtmoGG0t-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.5" y="1375" as="sourcePoint" />
-            <mxPoint x="499" y="1430" as="targetPoint" />
+            <mxPoint x="419.5" y="1375" as="sourcePoint" />
+            <mxPoint x="438" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479.5" y="1428.58" as="sourcePoint" />
-            <mxPoint x="576.5" y="1427.58" as="targetPoint" />
+            <mxPoint x="418.5" y="1428.58" as="sourcePoint" />
+            <mxPoint x="515.5" y="1427.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.04;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="482" y="1485.5" as="sourcePoint" />
-            <mxPoint x="579" y="1484.5" as="targetPoint" />
+            <mxPoint x="421" y="1485.5" as="sourcePoint" />
+            <mxPoint x="518" y="1484.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-20" value="直接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="488" y="1350" width="79" height="30" as="geometry" />
+          <mxGeometry x="427" y="1350" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-21" value="间接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="488" y="1404.31" width="79" height="30" as="geometry" />
+          <mxGeometry x="427" y="1404.31" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GX9jfsRnXOf5WtmoGG0t-22" value="间接效应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="488" y="1460" width="79" height="30" as="geometry" />
+          <mxGeometry x="427" y="1460" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
