@@ -29,10 +29,16 @@
           <mxGeometry x="344" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nLIXxnez8lDiuYRoLBM2-9" value="&lt;div&gt;“一行统管”时期&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="390" width="110" height="40" as="geometry" />
+          <mxGeometry x="517" y="380" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nLIXxnez8lDiuYRoLBM2-10" value="&lt;div&gt;中国人民银行&lt;span style=&quot;background-color: initial;&quot;&gt;集货币政策与&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;金融监管于一身&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="470" width="140" height="60" as="geometry" />
+          <mxGeometry x="502" y="460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nLIXxnez8lDiuYRoLBM2-11" value="&lt;div&gt;“一行统管”时期&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="676" y="380" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nLIXxnez8lDiuYRoLBM2-12" value="&lt;div&gt;中国人民银行&lt;span style=&quot;background-color: initial;&quot;&gt;集货币政策与&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;金融监管于一身&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="460" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
