@@ -40,6 +40,12 @@
         <mxCell id="nLIXxnez8lDiuYRoLBM2-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;“一局一委一行两会”&lt;/span&gt;&lt;/div&gt;&lt;div&gt;新格局&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="661" y="460" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nLIXxnez8lDiuYRoLBM2-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="360" as="sourcePoint" />
+            <mxPoint x="550" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
