@@ -70,7 +70,7 @@
         <mxCell id="DI2uxL3qD6fJ_csh3O9X-4" value="1990&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="111" y="588" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DI2uxL3qD6fJ_csh3O9X-5" value="2004&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="DI2uxL3qD6fJ_csh3O9X-5" value="2004&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="270" y="588" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DI2uxL3qD6fJ_csh3O9X-6" value="2019&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -97,10 +97,10 @@
             <mxPoint x="887" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DI2uxL3qD6fJ_csh3O9X-17" value="中小板成立" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="DI2uxL3qD6fJ_csh3O9X-17" value="中小板成立" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="255" y="686" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DI2uxL3qD6fJ_csh3O9X-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="DI2uxL3qD6fJ_csh3O9X-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="619" as="sourcePoint" />
             <mxPoint x="320" y="687" as="targetPoint" />
